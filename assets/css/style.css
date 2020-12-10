@@ -164,6 +164,14 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 25px;
 }
 
+.footer-book {
+  background: #009970;
+  color: #fff;
+  border-radius: 50px;
+  margin: 0 15px;
+  padding: 10px 25px;
+}
+
 .nav-menu .get-started a:hover {
   background: #00805d;
   color: #fff;
